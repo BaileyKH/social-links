@@ -40,6 +40,6 @@ Users should be able to:
 ## Author
 
 - Website - [Bailey Henderson](https://www.baileykh.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BaileyKH)
-- LinkedIn - [@yourusername](www.linkedin.com/in/baileykh)
+- Frontend Mentor - [@BaileyKH](https://www.frontendmentor.io/profile/BaileyKH)
+- LinkedIn - [@BaileyKH](www.linkedin.com/in/baileykh)
 
