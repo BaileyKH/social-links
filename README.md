@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BaileyKH/social-links)
-- Live Site URL: [Add live site URL here](https://social-links-mauve.vercel.app/)
+- Solution URL: [https://github.com/BaileyKH/social-links](https://github.com/BaileyKH/social-links)
+- Live Site URL: [https://social-links-mauve.vercel.app/](https://social-links-mauve.vercel.app/)
 
 ## My process
 
